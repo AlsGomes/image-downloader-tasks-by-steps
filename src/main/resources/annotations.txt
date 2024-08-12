@@ -1,0 +1,80 @@
+PROJETO SINGLE THREAD
+Process finalized. The process took 224 seconds to complete
+Process finalized. The process took 179 seconds to complete
+Process finalized. The process took 185 seconds to complete
+
+PROJETO MULTI THREAD POR ETAPA
+1
+2024-08-08 17:58:03.484 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [274] seconds to complete
+2024-08-08 22:02:31.733 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [213] seconds to complete
+2024-08-09 10:35:59.152 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [218] seconds to complete
+
+2
+2024-08-05 18:02:49.515 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [133] seconds to complete
+
+5
+2024-08-05 18:04:32.438 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [73] seconds to complete
+
+10
+2024-08-06 21:53:58.164 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [67] seconds to complete
+
+15
+2024-08-06 21:57:04.153 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [60] seconds to complete
+2024-08-09 10:50:51.113 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [62] seconds to complete
+
+20
+2024-08-06 21:58:51.565 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [61] seconds to complete
+2024-08-09 10:52:16.031 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [59] seconds to complete
+
+25
+2024-08-06 22:00:31.345 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [58] seconds to complete
+
+30
+2024-08-06 22:02:24.870 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [66] seconds to complete
+
+35
+2024-08-06 22:04:01.801 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [58] seconds to complete
+
+41
+2024-08-06 22:06:10.015 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [55] seconds to complete
+
+50
+2024-08-06 22:08:40.786 INFO  [br.com.agdev.ImageFinalizationManager]] (pool-4-thread-1) [ImageFinalizationManager] finalized. The process took [56] seconds to complete
+
+PROJETO MULTI THREAD POR PROCESSO
+1
+2024-08-09 12:30:06.607 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [204] seconds to complete
+
+2
+2024-08-09 17:13:47.131 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [116] seconds to complete
+
+5
+2024-08-09 17:15:29.541 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [60] seconds to complete
+
+10
+2024-08-09 17:16:54.310 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [46] seconds to complete
+
+15
+2024-08-09 17:18:07.362 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [46] seconds to complete
+
+20
+2024-08-09 17:19:25.339 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [51] seconds to complete
+
+25
+2024-08-09 17:20:44.139 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [53] seconds to complete
+
+30
+2024-08-09 17:22:23.029 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [54] seconds to complete
+
+35
+2024-08-09 17:23:37.117 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [49] seconds to complete
+
+40
+2024-08-09 17:24:58.508 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [53] seconds to complete
+
+41
+2024-08-09 17:26:25.347 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [53] seconds to complete
+
+50
+2024-08-09 17:27:39.939 INFO  [br.com.agdev.TaskManager]] (main) Process finalized. The process took [52] seconds to complete
+
